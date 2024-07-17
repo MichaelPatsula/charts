@@ -1,5 +1,5 @@
 apiVersion: v2
-appVersion: "v2.0.2"
+appVersion: "2.0.2"
 description: |-
   A chart used for easily configuring kubernetes-sidecar-terminator in a cluster.
 name: sidecar-terminator
